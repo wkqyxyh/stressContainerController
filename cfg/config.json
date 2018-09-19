@@ -1,0 +1,7 @@
+{
+    "RampUpPeriod": 15,
+    "RampUpFinalContainerNum": 3,
+    "DurationPeriod": 10,
+    "RampDownPeriod": 15,
+    "ImageName": "hxzhou-jmeter-test:0.0.2"
+}
